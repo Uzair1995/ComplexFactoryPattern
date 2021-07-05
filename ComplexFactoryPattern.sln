@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComplexFactoryPattern", "ComplexFactoryPattern\ComplexFactoryPattern.csproj", "{CA4410A6-3F00-4472-A327-A20B21CA1F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA4410A6-3F00-4472-A327-A20B21CA1F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4410A6-3F00-4472-A327-A20B21CA1F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4410A6-3F00-4472-A327-A20B21CA1F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4410A6-3F00-4472-A327-A20B21CA1F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93E9681E-B54D-4393-BF6C-F9783FB1C9EB}
+	EndGlobalSection
+EndGlobal
